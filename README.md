@@ -7,6 +7,7 @@ Liste:
 * BMW
 * Renault
 * Mercedes
+* Skoda 
 
 **Länder** *soriert* nach Einwohnerzahl
 1. Deutschland
